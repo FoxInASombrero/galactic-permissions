@@ -1,0 +1,5 @@
+name: "galactic-permissions"
+main: "hu.szviktor.permissions.PluginBootstrap"
+version: "${project.version}"
+
+description: "Egy nagyon egyszerű permission kezelő plugin Bukkithoz."

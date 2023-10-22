@@ -1,0 +1,16 @@
+# A rangok adatainak tárolására használt konfigurációs fájl.
+# NE MÓDOSÍTS SEMMILYEN ÉRTÉKET, HA NEM TUDOD, HOGY MIT CSINÁLSZ!
+
+groups:
+  jatekos:
+    prefix: "&f[&3Játékos&f] "
+    suffix: ""
+    permissions:
+      - "default.permissions"
+  moderator:
+    prefix: "&b[Moderátor] &f"
+    suffix: ""
+    permissions:
+      - "moderator.permissions"
+    inheritance:
+      - "jatekos"

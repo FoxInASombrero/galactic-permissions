@@ -1,0 +1,4 @@
+# A játékosok adatainak tárolására használt konfigurációs fájl.
+# NE MÓDOSÍTS SEMMILYEN ÉRTÉKET, HA NEM TUDOD, HOGY MIT CSINÁLSZ!
+
+users: {}

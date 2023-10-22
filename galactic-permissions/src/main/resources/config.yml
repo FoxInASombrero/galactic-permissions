@@ -1,0 +1,4 @@
+# A plugin alapvető beállításai.
+
+settings:
+  autosave: 300 # Automatikus mentés időintervalluma másodpercben.
